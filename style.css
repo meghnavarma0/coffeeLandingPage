@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5), rgba(199, 116, 22, 0.7)),
+        url(coffee.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    
+}
+.hero {
+    color: bisque;
+    margin-top: 20%;
+    font-size: 70px;
+    text-align: center;
+    margin-bottom: 10%;
+    font-family: 'Fira Code', monospace;
+}
+.para {
+    font-family: 'Fira Code', monospace;
+    color: rgb(56, 32, 3);
+    font-weight: 600;
+
+}
